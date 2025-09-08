@@ -1,2 +1,1 @@
-# spotify-s-recommendation-system
-spotify recommendation system project in machine learning
+# Build a Music Recommendation System with Machine Learning | Recommendation System Using Spotify Dataset
